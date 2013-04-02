@@ -1,5 +1,5 @@
 # Django settings for mydjango project.
-
+#vladooo
 DEBUG = True
 TEMPLATE_DEBUG = DEBUG
 
